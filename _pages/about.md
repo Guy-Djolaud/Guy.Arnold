@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Candidate in Economics at McGill University.([https://www.mcgill.ca/economics/graduates/instream-students] 
+I am a Ph.D. Candidate in Economics at McGill University.([https://www.mcgill.ca/economics/graduates/instream-students]) 
 My research uses Canadian administrative microdata to study **labour market power**,  
 **employer concentration**, and the **distributional effects of macroeconomic shocks**,  
 with a focus on the Great Recession and public-sector dynamics.. <br/>
