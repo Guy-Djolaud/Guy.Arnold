@@ -1,5 +1,5 @@
 ---
-permalink: djolkilson-droid.github.io/Guy.Arnold/research/
+permalink:/research/
 title: "Research"
 author_profile: true
 ---
