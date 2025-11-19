@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-permalink: /teaching/
+permalink: https://github.com/djolkilson-droid/Guy.Arnold//teaching/
 author_profile: true
 ---
 <br>
